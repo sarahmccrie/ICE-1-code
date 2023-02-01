@@ -59,7 +59,7 @@ public class CardTrick {
         //       11 for jack, 12 for queen, etc. (remember arrays are 0-based though)
         //       1 for Hearts, 2 for Diamonds, etc. (remember arrays are 0-based though)
         // 
-        
+
         // Then loop through the cards in the array to see if there's a match.     
         // If the guess is successful, print System.out.println("Congratulations, you guessed right!");.
         
@@ -84,7 +84,8 @@ public class CardTrick {
      * replace this information with your own.
      * @author Paul Bonenfant Jan 2022
      * @author Sarah McCrie Jan 2023
-     I'm done!
+        I'm done!
+        This line was changed on my local
      */
     private static void printInfo() {
     
